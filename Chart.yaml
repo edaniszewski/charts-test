@@ -1,5 +1,4 @@
 name: example
-home: ""
 sources:
 - https://github.com/edaniszewski/charts-test.git
 version: 0.2.0
